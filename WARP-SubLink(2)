@@ -1,5 +1,3 @@
-warp://162.159.195.171:8854/?ifp=5-10#@ArShinApaChe#1
-warp://162.159.195.171:8854/?ifp=5-10#@ArShinApaChe#2
-warp://162.159.195.171:8854/?ifp=5-10#@ArShinApaChe#3
-warp://162.159.195.171:8854/?ifp=5-10#@ArShinApaChe#4
-warp://162.159.195.171:8854/?ifp=5-10#@ArShinApaChe#5
+warp://p1@162.159.192.182:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#ArShinApaChe1️⃣&&detour=warp://p2@162.159.192.182:903#WarpOnWarp1️⃣
+warp://p1@162.159.192.128:988?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#ArShinApaChe2️⃣&&detour=warp://p2@162.159.192.128:988#WarpOnWarp2️⃣
+warp://p1@162.159.192.33:3581?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#ArShinApaChe3️⃣&&detour=warp://p2@162.159.192.33:3581#WarpOnWarp3️⃣
