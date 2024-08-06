@@ -1,3 +1,3 @@
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#ArShinApaChe1️⃣&&detour=warp://p2@188.114.97.170:894#WarpOnWarp1️⃣
 warp://p1@auto?ifpm=m4#ArShinApaChe2️⃣&&detour=warp://p2@auto#WarpOnWarp2️⃣
-warp://p1@ip1?ifp=1-3#WarpInWarp3️⃣&&detour=warp://p2@ip2ifp=1-3#ArShinApaChe3️⃣
+warp://p1@ip1?ifp=1-3#ArShinApaChe3️⃣&&detour=warp://p2@ip2ifp=1-3#WarpOnWarp3️⃣
